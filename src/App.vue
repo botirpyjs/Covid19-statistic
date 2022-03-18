@@ -5,7 +5,7 @@
   </div>
   <div class="container">
     <select name="" id="" v-model="country" @change="getData">
-      <option value="">Select</option>
+      <option value="">Davlat tanlash</option>
       <option v-for="(list, index) in countryList" :key="index" :value="list">
         {{ list }}
       </option>
