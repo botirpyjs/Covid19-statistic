@@ -95,7 +95,7 @@ body {
   align-items: center;
 }
 .title {
-  width: 100%;
+  width: 50%;
   height: 76px;
   font-size: 30px;
   position: absolute;
@@ -109,7 +109,7 @@ body {
 }
 
 .container {
-  width: 100%;
+  width: 50%;
   padding: 20px auto;
   height: 250px;
   display: flex;
