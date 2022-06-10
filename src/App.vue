@@ -89,6 +89,11 @@ body {
   background-position: center;
   background-size: cover;
 }
+#app{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .title {
   width: 45%;
   height: 76px;
@@ -96,7 +101,6 @@ body {
   position: absolute;
   top: 40px;
   padding: 10px;
-  margin-left: 364px;
   text-align: center;
   border: 1px solid #444444a9;
   background: rgb(255, 255, 255);
