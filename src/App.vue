@@ -95,7 +95,7 @@ body {
   align-items: center;
 }
 .title {
-  width: 45%;
+  width: 100%;
   height: 76px;
   font-size: 30px;
   position: absolute;
