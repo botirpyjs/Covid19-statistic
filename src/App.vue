@@ -90,15 +90,12 @@ body {
   background-size: cover;
 }
 #app{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 .title {
   width: 50%;
   height: 76px;
   font-size: 30px;
-  position: absolute;
+  position: relative;
   top: 40px;
   padding: 10px;
   text-align: center;
