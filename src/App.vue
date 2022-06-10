@@ -94,7 +94,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 200px;
+  padding: 300px;
 }
 .title {
   width: 50%;
