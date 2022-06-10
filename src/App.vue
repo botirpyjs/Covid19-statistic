@@ -94,7 +94,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 100px;
+  padding: 200px;
 }
 .title {
   width: 50%;
@@ -112,7 +112,7 @@ body {
 .container {
   width: 50%;
   padding: 20px auto;
-  height: 250px;
+  height: 300px;
   display: flex;
   align-items: center;
   justify-content: space-between;
