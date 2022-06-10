@@ -147,40 +147,5 @@ select {
 .asos3 {
   color: green;
 }
-@media (max-width: 400px) {
-  body {
-    background-image: url(https://s.w-x.co/util/image/v/1583270398102_WHAT_YOU_NEED_TO_KNOW_ABOUT_CORONAVIRUS.jpg?v=at&w=1080&h=1920);
-  }
-
-  select:focus{
-    border-radius: 15px;
-  }
-  select {
-    margin-top: 15px;
-    background-color: rgba(209, 209, 255, 0.4);
-    box-shadow: 5px 5px 11px rgba(34, 114, 167, 0.15);
-  }
-  .title {
-    margin: 5px;
-    margin-top: -20px;
-    width: 91%;
-    font-size: 25px;
-    height: 90px;
-  }
-  .container {
-    margin-top: 200px !important;
-    margin: 2%;
-    width: 96%;
-    height: 400px;
-  }
-  .asos{
-  border-bottom: #5e5d5d46 1px solid;
-  }
-  .panel {
-    font-size: 15px;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: -1px;
-  }
-}
+// background-image: url(https://s.w-x.co/util/image/v/1583270398102_WHAT_YOU_NEED_TO_KNOW_ABOUT_CORONAVIRUS.jpg?v=at&w=1080&h=1920);
 </style>
