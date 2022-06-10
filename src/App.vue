@@ -109,10 +109,9 @@ body {
 }
 
 .container {
-  width: 45%;
+  width: 100%;
   padding: 20px auto;
   height: 250px;
-  margin: 150px auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
